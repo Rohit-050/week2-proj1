@@ -1,1 +1,1 @@
-Week2 : Project 2: Event-Invitation
+Week2 : Project 1 : Event-Invitation
